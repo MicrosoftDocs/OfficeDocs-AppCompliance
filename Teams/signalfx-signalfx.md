@@ -34,7 +34,7 @@ Information provided by SignalFx to Microsoft:
 | URL of partner website | <https://docs.signalfx.com/en/latest/admin-guide/integrate-notifications.html#office365> |
 | URL of Teams application info page | <https://docs.signalfx.com/en/latest/admin-guide/integrate-notifications.html#office365> |
 | URL of Privacy Policy | <https://signalfx.com/privacy-policy/> |
-| URL of Terms of Use | <https://signalfx.com/terms-and-conditions/> |
+| URL of Terms of Use | <https://splunk.com/GeneralTerms> |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
